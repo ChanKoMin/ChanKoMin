@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Vue, PHP, Laravel**
 
-- 👨‍💻 All of my projects are available at [github.com/ChanKoMin](github.com/ChanKoMin)
-
 - 💬 Ask me about **Bootstrap, jQuery**
 
 - 📫 How to reach me **chankomin225@gmail.com**
