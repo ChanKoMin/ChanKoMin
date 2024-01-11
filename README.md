@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/chan_min_ko" target="blank"><img src="https://img.shields.io/twitter/follow/chan_min_ko?logo=twitter&style=for-the-badge" alt="chan_min_ko" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, PHP, Laravel**
+- 🌱 I’m currently learning **React, PHP, Laravel**
 
-- 💬 Ask me about **Bootstrap, jQuery**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery**
 
 - 📫 How to reach me **chankomin225@gmail.com**
 
